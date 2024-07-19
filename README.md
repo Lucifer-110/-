@@ -5,8 +5,8 @@
 - 授权版本：169元 
 - 需要的点击最下方联系方式进行咨询。
 
-![1](https://github.com/user-attachments/assets/63932ee6-2760-4356-b499-0fd03d0d93bf)
-![2](https://github.com/user-attachments/assets/a0f42517-268e-4680-99ce-acad7337c5c7)
+![1](https://github.com/user-attachments/assets/63932ee6-2760-4356-b499-0fd03d0d93bf){width=300px}
+![2](https://github.com/user-attachments/assets/a0f42517-268e-4680-99ce-acad7337c5c7){width=300px}
 
 - 该插件是付费插件，需要额外的授权。
 
