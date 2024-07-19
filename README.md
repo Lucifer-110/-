@@ -51,10 +51,9 @@
 
 # 联系方式
 
-            <a href="https://a.eturl.cn/TqP9u9"_blank"><i class="fab fa-weixin"></i></a>
-            <a href="https://qm.qq.com/q/QdTiaLaZOg" target="_blank"><i class="fab fa-qq"></i></a>
-            <a href="https://t.me/Cat011" target="_blank"><i class="fab fa-telegram-plane"></i></a>
-            <a href="https://discord.gg/VtWhM8hG" target="_blank"><i class="fab fa-discord"></i></a>
-            <a href="https://www.facebook.com/ZGDC0" target="_blank"><i class="fab fa-facebook"></i></a>
-            <a href="https://twitter.com/Lucifer_0315_" target="_blank"><i class="fab fa-twitter"></i></a>
-            <a href="https://mail.google.com/mail/u/1/#inbox" target="_blank"><i class="fas fa-envelope"></i></a>
+- [QQ](https://qm.qq.com/q/zBtr0tLpdu)
+- [Wechat](https://a.eturl.cn/TqP9u9)
+- [Telegram](https://t.me/Cat011)
+- [Telegram群组](https://t.me/Fog_Lucifer)
+- [Telegram频道](https://t.me/Lucifer_Fog)
+- [Telegram私聊机器人](https://t.me/Cat_001bot)
