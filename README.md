@@ -8,7 +8,7 @@
 <img src="https://github.com/user-attachments/assets/63932ee6-2760-4356-b499-0fd03d0d93bf" width="300" />
 <img src="https://github.com/user-attachments/assets/a0f42517-268e-4680-99ce-acad7337c5c7" width="300" />
 
-- <font color="red">该插件是付费插件，需要额外的授权。</font>
+- 该插件是付费插件，需要额外的授权。
 
 # 支持的功能
 
