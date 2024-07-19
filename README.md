@@ -52,7 +52,7 @@
 # 联系方式
 
 - [QQ](https://qm.qq.com/q/zBtr0tLpdu)
-<del>- [Wechat](https://a.eturl.cn/TqP9u9)<del>
+- <del>[Wechat](https://a.eturl.cn/TqP9u9)<del>
 - [Telegram](https://t.me/Cat011)
 - [Telegram群组](https://t.me/Fog_Lucifer)
 - [Telegram频道](https://t.me/Lucifer_Fog)
