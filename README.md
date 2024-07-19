@@ -2,7 +2,7 @@
 
 这是一款可以连接直播间的弹幕游戏插件，观众通过发弹幕或者刷礼物进行召唤僵尸。
 该插件是付费插件，需要额外的授权。
-![1](https://github.com/user-attachments/assets/63932ee6-2760-4356-b499-0fd03d0d93bf)
+![1](https://github.com/user-attachments/assets/63932ee6-2760-4356-b499-0fd03d0d93bf)![2](https://github.com/user-attachments/assets/a0f42517-268e-4680-99ce-acad7337c5c7)
 
 
 
